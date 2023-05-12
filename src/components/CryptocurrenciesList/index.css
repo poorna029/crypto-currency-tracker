@@ -1,0 +1,24 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main-heading {
+  font-family: 'Roboto';
+  color: #00e7ff;
+}
+
+.CryptocurrencyContainer {
+  width: 60vw;
+  margin: 0px;
+  height: 45vh;
+  border: 2px solid #00e7ff;
+  border-radius: 8px;
+  display: grid;
+  grid-template-columns: 1fr 100px 20px;
+  gap: 10px;
+  padding: 0px 10px;
+  padding-right: 90px;
+  padding-left: 20px;
+}

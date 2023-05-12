@@ -1,0 +1,11 @@
+.bg {
+  background-color: #092e33;
+  /* background-size: cover; */
+  height: stretch;
+  width: 100vw;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-bottom: 10vh;
+}
